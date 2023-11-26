@@ -1,6 +1,9 @@
 # One Man Army - 2D Java Game
 A small 2D Java game inspired by Call Of Duty - Zombie Mode to learn and perform about OOP.
 
+If you want to test the game, go to the release window, and download the OneManArmy_Game.exe file.
+Launch this file and play the game.
+
 ---
 ## Some Screenshot 📷
 The player starts the game on the bridge.
